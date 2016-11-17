@@ -2,6 +2,7 @@
 /**
  * Plugin Name: Mihdan: Excerpt Above Content
  * Description: Добавить цитату над редактором контента
+ * Version: 1.0
  *
  * GitHub Plugin URI: https://github.com/mihdan/mihdan-excerpt-above-content
  */

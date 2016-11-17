@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Mihdan: Excerpt above content
+ * Plugin Name: Mihdan: Excerpt Above Content
  * Description: Добавить цитату над редактором контента
  *
  * GitHub Plugin URI: https://github.com/mihdan/mihdan-excerpt-above-content

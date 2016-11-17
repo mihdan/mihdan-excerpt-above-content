@@ -43,7 +43,6 @@ function mihdan_eac_add_custom_excerpt_meta_box( $post_type, $post ) {
 		add_meta_box(
 			$context,
 			__( 'Excerpt' ),
-//			'post_excerpt_meta_box',
 			'mihdan_eac_add_rich_text_to_excerpt',
 			$post_type,
 			$context,
